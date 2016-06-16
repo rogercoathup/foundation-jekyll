@@ -1,11 +1,9 @@
 ---
 # front matter
 ---
+@charset 'utf-8';
 
-// Custom Variables
-@import 'variables';
-
-// Foundation 6
+@import 'settings';
 @import 'foundation';
 
 // Include All of Foundation 6
